@@ -1,0 +1,9 @@
+const types = {
+  GET_ALL_POSTS: 'GET_ALL_POSTS',
+  GET_POST: 'GET_POST',
+  ADD_NEW_POST: ' ADD_NEW_POST',
+  ADD_NEW_COMMENT: 'ADD_NEW_COMMENT',
+  UPDATE_POST: 'UPDATE_POST'
+};
+
+export  default types;
